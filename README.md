@@ -33,7 +33,6 @@ The downloaded data were combined, filter, and re-organized using the run_analys
 
 This tidy data contains 180 observations and 68 variables.  Here are the new variables in the output- 
 
-######Variables/Columns
 * subject  
       _The IDs of the 30 subjects participated in the experiment_
       _from 1 to 30_
