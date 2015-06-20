@@ -29,6 +29,6 @@ These eight data files were combined, filter, and re-organized using the run_ana
 5.  Add the full activity name into the dataset 
 6.  Extract only the variables on the mean and standard deviation for each measurement as specified by the project assignment
 7.  Compute the average for each variables for each subject and activity
-8.  Export this tidy data into a new "tidy.txt" file.
+8.  Export this tidy data into a new "tidydata.txt" file.
 
 The final tidy data contains 180 observations and 68 variables.  See the [Code book](https://github.com/genienyc/GettingAndCleaningData/blob/master/CodeBook.md) for the full list of variables.
