@@ -31,4 +31,4 @@ These eight data files were combined, filter, and re-organized using the run_ana
 7.  Compute the average for each variables for each subject and activity
 8.  Export this tidy data into a new "tidy.txt" file.
 
-The final tidy data contains 180 observations and 68 variables.  See the [Code book]https://github.com/genienyc/GettingAndCleaningData/blob/master/CodeBook.md for the full list of variables.
+The final tidy data contains 180 observations and 68 variables.  See the [Code book](https://github.com/genienyc/GettingAndCleaningData/blob/master/CodeBook.md) for the full list of variables.
