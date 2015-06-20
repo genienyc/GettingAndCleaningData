@@ -1,15 +1,15 @@
 # GettingAndCleaningData
 Getting and Cleaning Data Course Project
 
-The data linked to from the course website represent data collected from the accelerometers from the Samsung Galaxy S smartphone. A full description is available at the site where the data was obtained: 
+This is the project assignment for the Getting and Cleaning Data Course.  This project make use of data collected from the accelerometers from the Samsung Galaxy S smartphone. A full description is available at the site where the data was obtained: 
 
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
 
-Here are the data for the project: 
+Here is the link to the complete dataset as supplied by this project assignment: 
 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
-The dataset includes the following files - 
+The dataset being used for this project are as follows -
 
 *  'features.txt': List of all features.
 *  'activity_labels.txt': Links the class labels with their activity name. There are 6 different activities
@@ -20,7 +20,7 @@ The dataset includes the following files -
 *  'subject_train.txt': Each row identifies the subject in the Training set who performed the activity for each window sample. Its range is from 1 to 30
 *  'subject_test.txt': Each row identifies the subject in the Test set who performed the activity for each window sample. Its range is from 1 to 30
 
-The downloaded data were combined, filter, and re-organized using the run_analysis.R which performs the following:  
+These eight data files were combined, filter, and re-organized using the run_analysis.R which performs the following:  
 
 1. Load the dataset
 2. Name the variables for y_test, y_train, subject_train, subject_test, and activity labels. Replace the non-descript column names on xtest and xtrain with the value listed in the feature.txt
