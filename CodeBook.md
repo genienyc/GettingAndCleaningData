@@ -1,4 +1,4 @@
-##Data Dictionary for "tidy.txt"
+##Data Dictionary for "tidydata.txt"
 
 ####This dataset contains 180 rows/observations and 68 columns/variables
 
